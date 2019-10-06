@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: b600c4befcdcc7e4f90625c2a21fcbca
+timeCreated: 1528772756
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: H0
+    100002: H_B1
+    100004: H_B2
+    100006: H_B3
+    100008: Hai_F_L
+    100010: Hair_0
+    100012: Hair_S1
+    100014: Hair_S1 1
+    100016: Hair_S1 2
+    100018: Hair_S1 3
+    100020: HairKnot
+    100022: HairKnot1
+    100024: Hairs
+    100026: HairS1_root
+    100028: HF_L1
+    100030: HF_L2
+    100032: HF_L3
+    100034: HF_R1
+    100036: HF_R2
+    100038: HF_R3
+    100040: LOD_0
+    100042: LOD_1
+    100044: LOD_2
+    100046: LOD_3
+    100048: LOD_Group_1
+    100050: //RootNode
+    400000: H0
+    400002: H_B1
+    400004: H_B2
+    400006: H_B3
+    400008: Hai_F_L
+    400010: Hair_0
+    400012: Hair_S1
+    400014: Hair_S1 1
+    400016: Hair_S1 2
+    400018: Hair_S1 3
+    400020: HairKnot
+    400022: HairKnot1
+    400024: Hairs
+    400026: HairS1_root
+    400028: HF_L1
+    400030: HF_L2
+    400032: HF_L3
+    400034: HF_R1
+    400036: HF_R2
+    400038: HF_R3
+    400040: LOD_0
+    400042: LOD_1
+    400044: LOD_2
+    400046: LOD_3
+    400048: LOD_Group_1
+    400050: //RootNode
+    4300000: Hair_0
+    4300002: HairKnot
+    4300004: HairKnot1
+    4300006: Hai_F_L
+    4300008: Hair_S1
+    4300010: Hair_S1
+    4300012: Hair_S1
+    4300014: Hair_S1
+    9500000: //RootNode
+    13700000: Hai_F_L
+    13700002: Hair_0
+    13700004: Hair_S1
+    13700006: Hair_S1 1
+    13700008: Hair_S1 2
+    13700010: Hair_S1 3
+    13700012: HairKnot
+    13700014: HairKnot1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hair0
+    second: {fileID: 2100000, guid: d2485b1fc82f47141a5c9d9f2e104ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_HairB
+    second: {fileID: 2100000, guid: 45d2b021daaa57c4495582570392e79a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c8aa05454cac9a845974a2fa49496fff
+timeCreated: 1528772737
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: F_1
+    100002: F_2
+    100004: F_3
+    100006: F_4
+    100008: L_1
+    100010: L_2
+    100012: L_3
+    100014: L_4
+    100016: PR_F
+    100018: PR_L
+    100020: PR_R
+    100022: PR_root
+    100024: PRF_L
+    100026: PRF_R
+    100028: R0
+    100030: R_1
+    100032: R_2
+    100034: R_3
+    100036: R_4
+    100038: RL_1
+    100040: RL_2
+    100042: RL_3
+    100044: RL_4
+    100046: RR_1
+    100048: RR_2
+    100050: RR_3
+    100052: RR_4
+    100054: //RootNode
+    400000: F_1
+    400002: F_2
+    400004: F_3
+    400006: F_4
+    400008: L_1
+    400010: L_2
+    400012: L_3
+    400014: L_4
+    400016: PR_F
+    400018: PR_L
+    400020: PR_R
+    400022: PR_root
+    400024: PRF_L
+    400026: PRF_R
+    400028: R0
+    400030: R_1
+    400032: R_2
+    400034: R_3
+    400036: R_4
+    400038: RL_1
+    400040: RL_2
+    400042: RL_3
+    400044: RL_4
+    400046: RR_1
+    400048: RR_2
+    400050: RR_3
+    400052: RR_4
+    400054: //RootNode
+    4300000: PR_F
+    4300002: PRF_L
+    4300004: PRF_R
+    4300006: PR_R
+    4300008: PR_L
+    9500000: //RootNode
+    13700000: PR_F
+    13700002: PR_L
+    13700004: PR_R
+    13700006: PRF_L
+    13700008: PRF_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PelvisArmor1
+    second: {fileID: 2100000, guid: ccde007a83f8366469dc41dc4e8b2f26, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
